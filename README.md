@@ -1,4 +1,8 @@
-## Hi there 👋
+Desenvolvedor de Software com 10 anos de experiência na indústria de software. Durante esse tempo, tenho trabalhado com algumas das principais tecnologias do mercado, .NET e Angular. Tenho facilidade na leitura e escrita de Query em SQL. Levo comigo as boas práticas de programação além de conceitos de arquitetura de software essenciais para softwares corporativos. 
+
+Atualmente, minhas preocupações principais ao desenvolver software é separar as responsabilidades e criar uma arquitetura adequada para cada necessidade de negócio e aderente aos bons princípios de design de código. Também levo a sérios minhas responsabilidades e sempre busco garantir as entregas com testes robustos e de qualidade, focados no comportamento do software.
+
+Além de minhas habilidades técnicas, busco sempre ser colaborativo com meus colegas de equipe e comunicativo. A comunicação clara e eficaz é fundamental para o sucesso do projeto e para garantir que todos os envolvidos estejam na mesma página. Sempre procuro contribuir com ideias e soluções para ajudar a equipe a atingir seus objetivos.
 
 <!--
 **IgorSilvaRosa/IgorSilvaRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
